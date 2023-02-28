@@ -1,0 +1,19 @@
+So this contract involved an initial Instagram page that included some images with accompanying text that highlighted a country (Saudi Arabia) and a link to a telegram bot service
+
+So step 1 was just to confirm country by reverse imaging the pictures on the instagram pages, being an airport, cityscape and a desert road. Along with the accompanying captions it was evident that Saudi Arabi was the correct country.
+
+Next I contacted the telegram bot and recieved a zip file containing three pages of text, which appeared to be a magazine type article and three pictures with WTW markers identifying a point in the picture
+
+USing google translate to translate the text it became clear that the article was likely irrelevant, but on each page was a small piece of writing with an accompanying set of numbers.
+
+These translated as 'one', 'now, and 'three' to me
+
+As this seemed to be a WTW geolocation contract I used the set of numbers/letters in the search bar of Google maps to see if this would do anything.
+
+Result not only did it translate the string of randomness to coordinates but switching to satellite view and comparing to the images from the telegram file proved that these were the right locations.
+
+To tie everything up I used the coordinates in WTW to gain the correct three words for each location.
+
+As per the instructions I used the first word from each WTW location to access the protected flag file. It needed a few attempts to get the right combination but eventually it all worked and flag obtained.
+
+Overall a very enjoyable contract with some reverse imaging, pseudo cryptograpghy and password breaching to complete
